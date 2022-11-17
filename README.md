@@ -20,15 +20,15 @@
 
 [----------------------Ejercicios capítulo 3----------------------]
 
-2. Enuncie la fórmula utilizada para encontrar l cuando los valores de V y R son conocidos.
+2.Enuncie la fórmula utilizada para encontrar l cuando los valores de V y R son conocidos.
 
 I=V/R
 
-4. Enuncie la fórmula utilizada para encontrar R cuando los valores de V e I son conocidos 
+4.Enuncie la fórmula utilizada para encontrar R cuando los valores de V e I son conocidos 
 
 R=V/I
 
-6. En cierto circuito, I=5 mA cuando V= 1V. Determine la corriente para cuando uno de los voltajes siguientes en el mismo circuito.  
+6.En cierto circuito, I=5 mA cuando V= 1V. Determine la corriente para cuando uno de los voltajes siguientes en el mismo circuito.  
 
 a) V=1.5V
 
