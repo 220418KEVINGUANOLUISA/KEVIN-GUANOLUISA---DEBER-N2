@@ -98,3 +98,5 @@ I=V/R
 I=12/37.4
 
 Minima: 0.317A     Maxima: 0.324A
+
+![image](https://user-images.githubusercontent.com/104913700/202568656-c55b0ca8-9a9a-4aa9-a3e5-b53e92d4b327.png)
