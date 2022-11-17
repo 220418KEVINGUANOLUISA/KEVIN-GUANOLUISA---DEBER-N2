@@ -53,3 +53,32 @@ I=50 mA
 
 ![image](https://user-images.githubusercontent.com/104913700/202568042-7b9fbd4d-f0fd-4000-89c2-16107af63320.png)
 ![image](https://user-images.githubusercontent.com/104913700/202568069-7b97f7c4-95a8-4397-b277-179e210fac79.png)
+
+12. Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente de 20V, ¿En cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?  
+
+100 mA= 0.1 A
+
+150 mA = 0.15 A
+
+R = V/I = 20/0.1 = 200Ω
+
+V = R*I = 200*0.15 = 30V
+
+Se debe aumentar en 10V y el nuevo valor a ajustarse es de 30V
+
+14. ¿La gráfica del problema 13 indica una relación lineal entre voltaje y corriente? Explique su respuesta.
+
+Res: La corriente “I” y el voltaje “V” son directamente proporcionales, es decir si el uno aumento el otro también lo hará.
+
+16. Determine la corriente en cada caso:
+
+a) V=9 V , R=2.7 kΩ = 3.33 mA
+
+b) V=5.5 V, R=100kΩ = 0.55 mA
+
+c) V=40 V, R=68kΩ = 0.58 mA
+
+d) V=1 kV, R=2.2kΩ = 4.54 dA
+
+e) V=66kV, R=10MΩ= 6.6 mA
+
