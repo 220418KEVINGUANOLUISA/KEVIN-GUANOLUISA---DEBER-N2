@@ -176,3 +176,118 @@ R=120V/2 A
 
 R=60Ω-15Ω=45Ω
 
+![image](https://user-images.githubusercontent.com/104913700/202569291-9a50d284-d483-456a-9942-e6174eeb50f2.png)
+
+[----------------------Ejercicios capítulo 4----------------------]
+
+2. Demuestre que hay 3.6 x 10^6 joules en un kilowatt-hora.
+
+P=W/t  1 kW=1000J
+
+1000/h*3600s=3.6*〖3.6*10〗^6 J
+
+4. Cuantos watts se utilizan cuando se consumen 7500 J de energía en 5 h?
+
+P=W/t
+
+5h18000s
+
+P=7500/18000s=0.41W
+
+6. Convierta las siguientes cantidades en kilowatts:
+
+a)1000W=1 kW
+
+b)3750W=3.75 kW
+
+c)160W=0.16 kW
+
+d)50,000W= 50 kW
+
+8. Convierta las siguientes cantidades en mili watts:
+
+a)1W=1000 mW
+
+b)0.4W=400 mW
+
+c)0.002W=2 mW
+
+d)0.0125W= 12.5mW
+
+10. Convierta las siguientes cantidades en watts:
+
+a)1.5kW=1500w
+
+b)0.5MW=5*10^5 W
+
+c)350mW=0.35W
+
+d)9000µW=9*10^(-3)W
+
+12. Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días,. cuantos kilowatts-hora de energía consume?
+
+P=W/TW=Pt
+
+W=300W*2592000s=777600000J/3600J=216000kW
+
+14. Convierta 5*10^6watts-minutos en kWh.
+
+5*10^6=5000000
+
+1 watt-mint=0.000017kWh
+
+5000000*0.000017=85kWh
+
+16.. Durante cuantos segundos debe haber 5 A de corriente a través de un resistor de 47 Ω para consumir 25 J?
+
+P=I^2 R
+
+P=5^2 A(47)Ω=1175W
+
+t=W/P
+
+t=25J/1175W
+
+t=0.021
+
+18. Si un resistor tiene 5.5 V entre sus extremos y 3 mA a través de él, ¿cuál es la potencia?
+
+P=VI
+
+P=5.5V * 0.003 A=0.0165W
+
+20. ¿Cuál es la potencia cuando 500 mA de corriente recorren un resistor de 4.7 kΩ?
+
+P=I^2 R
+
+P=〖0.5〗^2 A*4700Ω
+
+P=2350W
+
+22. Si entre los extremos de un resistor de 680 Æ existen 60 V, ¿Cuál es la potencia?
+
+P=V^2/R
+
+P=60^2 V/680Ω
+
+P=5.29W
+
+24. Si un resistor tiene que transportar 2 A de corriente y manejar 100 W de potencia, .de cuantos ohms debe ser? Suponga que el voltaje puede ser ajustado a cualquier valor requerido.
+
+R=P/I^2
+
+R=100/2^2
+
+R=25Ω
+
+26. Un resistor de 6.8 kΩ se quemó en un circuito. Usted debe reemplazarlo por otro con el mismo valor de resistencia. Si el resistor transporta 10 mA ¿Cuál deberá ser su clasificación de potencia? Suponga que dispone de resistores en todas las clasificaciones de potencia estándar. 
+
+10 mA=0.01 A       6.8kΩ=6800
+
+P=I^2R
+
+P=〖(0.01)〗^2*6800
+
+P=0.68W
+
+
