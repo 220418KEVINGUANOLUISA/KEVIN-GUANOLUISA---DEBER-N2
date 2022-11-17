@@ -51,11 +51,5 @@ e) V=10V
 
 I=50 mA
 
-8. Trace la relación corriente – voltaje para un resistor de cuatro bandas con código de colores gris, rojo, rojo, oro 
-
-R= 82000Ω +- 5% = 8,2KΩ +- 5%
-
-V	I
-1V	0.12mA
-3V	0,36mA
-5V	0,61mA
+![image](https://user-images.githubusercontent.com/104913700/202568042-7b9fbd4d-f0fd-4000-89c2-16107af63320.png)
+![image](https://user-images.githubusercontent.com/104913700/202568069-7b97f7c4-95a8-4397-b277-179e210fac79.png)
