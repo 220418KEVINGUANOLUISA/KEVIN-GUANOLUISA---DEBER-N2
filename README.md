@@ -8,3 +8,9 @@
 #Estudiar y saber como se emplea la utilización de las leyes de Kirchhoff en la resolución de los ejercicios planteados.
 
 2)Marco teórico
+ 
+ 
+ 
+ 
+ 
+
