@@ -82,3 +82,19 @@ d) V=1 kV, R=2.2kΩ = 4.54 dA
 
 e) V=66kV, R=10MΩ= 6.6 mA
 
+18. Cierto circuito tiene el siguiente código de colores: naranja, naranja, rojo, oro. Determine la corriente máxima y mínima esperadas cuando se conecta una fuente de 12V a través del resistor.
+
+I=V/R
+
+I=12/3300=3.6 mA
+
+Mínimo: 3.42A      Máximo: 3.78A
+
+20. Se conecta un resistor de 5 bandas a través de una fuente de 12 V. Determine la corriente si el código
+de colores es naranja, violeta, amarillo, oro, café.
+
+I=V/R
+
+I=12/37.4
+
+Minima: 0.317A     Maxima: 0.324A
