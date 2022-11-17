@@ -290,4 +290,56 @@ P=〖(0.01)〗^2*6800
 
 P=0.68W
 
+![image](https://user-images.githubusercontent.com/104913700/202569793-e41c1b3a-138e-4e1e-b7ff-4f42379c32db.png)
+
+30. Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horas en una carga de 10 Ω antes de volverse inutilizable. ¿Que promedio de potencia se suministra a la carga durante la vida de la batería?
+
+I=V/R
+
+I=1.25/10
+
+I=0.125 A
+
+Resp. En 90 horas produce un promedio de 0.125 A
+
+32. Una batería puede proporcionar un promedio de 1.5 A de corriente durante 24 h. ¿Cuál es su capacidad en amperes-hora?
+
+24h=x/1.5A
+
+x=24h*1.5A
+
+x=36 Ah
+
+34. Si la capacidad de una batería es de 650 mAh, ¿Cuánta corriente promedio suministrara durante 48 h?
+
+650 mAh=0.65Ah
+
+48h=0.65Ah/x
+
+x=0.014A
+
+36. Para operar al 85% de eficiencia, ¿Cuanta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?
+
+Eficiencia=Psalida / Pentrada
+
+Psalida= Eficiencia * 0.85
+
+Psalida= 5*0.85 = 4.25W
+
+4)Video
+
+https://www.youtube.com/watch?v=zpPRYpqW1UU
+
+5)Conclusiones
+
+Con el presente deber de informe del tema 3 y 4, estudiamos y aprendimos el uso correcto de prefijos en transformaciones de unidades de medida con sus operaciones, con la ayuda de la ley de ohm y otras fórmulas como el voltaje pusimos en práctica en la resolución de los ejercicios de circuitos ya un poco avanzados, en forma progresiva en comparación al primer informe.
+
+6)Bibliografía
+
+Floyd, T. L. (2007). Principios de circuitos eléctricos (8.a ed.). Pearson.
+
+BBVA. (2022, 31 agosto). Â¿QuÃ© es y cÃ3mo calcular la potencia elÃ©ctrica? BBVA NOTICIAS. https://www.bbva.com/es/sostenibilidad/que-es-y-como-calcular-la-potencia-electrica/
+
+La ley de Ohm. (s. f.). https://www.edu.xunta.gal/espazoAbalar/sites/espazoAbalar/files/datos/1464947843/contido/24_la_ley_de_ohm.html
+
 
