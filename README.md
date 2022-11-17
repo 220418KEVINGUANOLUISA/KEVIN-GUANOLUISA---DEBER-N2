@@ -100,3 +100,79 @@ I=12/37.4
 Minima: 0.317A     Maxima: 0.324A
 
 ![image](https://user-images.githubusercontent.com/104913700/202568656-c55b0ca8-9a9a-4aa9-a3e5-b53e92d4b327.png)
+
+24. Calcule el voltaje para cada valor de I y R:
+
+a) I=1mA, R=10Ω
+
+V= R*I= 0.01 V
+
+b) I=50mA, R=33Ω
+
+V= R*I= 1.65 V
+
+c) I=3 A, R= 5.6Ω
+
+V= R*I= 16.8 V
+
+d) I=1.6 mA, R= 2.2kΩ
+
+V=R*I= 3.52 V
+
+e) I=250 µA, R= 1.0kΩ
+
+V=R*I= 0.25V
+
+f) I=500 mA, R=1.5MΩ
+
+V=R*I= 7.5 MV
+
+g) I=850µA, R=10MΩ
+
+V=R*I= 850 V
+![image](https://user-images.githubusercontent.com/104913700/202568924-3a1554c0-bdbc-487d-b463-e8a6a80afe8a.png)
+
+28. Encuentre la resistencia de un reóstato para cada valor de V e I:
+
+R=V/I
+
+a) V=100V, I=2 A
+
+R=10V/2 A= 5Ω
+
+b) V=90V, I=45 A
+
+R=90V/45 A= 2Ω
+
+c) V=50V, I=5 A
+
+R=50V/5 A=10Ω
+
+d) V=5.5V, I=10 A
+
+R=5.5V/10 A=0.55 Ω
+
+e) V=150V, I=0.5 A
+
+R=150V/0.5 A= 300Ω
+
+30. Se aplican seis volts a través de un resistor. Se mide una corriente de 2 mA. ¿Cuál es el valor del resistor?
+
+R=V/I
+
+R=6V/2*10^(-3) A
+
+R=3 kΩ
+
+32.Se desconoce la resistencia de cierto dispositivo eléctrico. Usted dispone de una batería de 12 V y un amperímetro. ¿Cómo determinaría el valor de la resistencia desconocida? Trace las conexiones de circuito necesarias.
+
+Resp. Para conocer la resistencia de este circuito con el amperímetro colocándolo en serie mediría su corriente y con la ayuda de la ley de ohm, con la formula R=V/I obtendría su resistencia.
+
+34. Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente excesiva mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato sin que se funda el fusible? Suponga una resistencia de la lámpara de 15 Ω.
+
+R=V/I
+
+R=120V/2 A
+
+R=60Ω-15Ω=45Ω
+
