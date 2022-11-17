@@ -16,6 +16,7 @@
 ![image](https://user-images.githubusercontent.com/104913700/202566741-66a3d0c7-a134-4bfe-87a7-119a8fb11a08.png)
 ![image](https://user-images.githubusercontent.com/104913700/202566753-413a8303-977b-40a8-ba73-ab54401f30e0.png)
 ![image](https://user-images.githubusercontent.com/104913700/202566766-e0ad874f-2967-44c7-a598-7daee327906e.png)
+
 3)Explicación y Resolución de ejercicios o problemas
 
 [----------------------Ejercicios capítulo 3----------------------]
@@ -49,3 +50,12 @@ I=2 mA
 e) V=10V
 
 I=50 mA
+
+8. Trace la relación corriente – voltaje para un resistor de cuatro bandas con código de colores gris, rojo, rojo, oro 
+
+R= 82000Ω +- 5% = 8,2KΩ +- 5%
+
+V	I
+1V	0.12mA
+3V	0,36mA
+5V	0,61mA
