@@ -130,6 +130,7 @@ V=R*I= 7.5 MV
 g) I=850µA, R=10MΩ
 
 V=R*I= 850 V
+
 ![image](https://user-images.githubusercontent.com/104913700/202568924-3a1554c0-bdbc-487d-b463-e8a6a80afe8a.png)
 
 28. Encuentre la resistencia de un reóstato para cada valor de V e I:
